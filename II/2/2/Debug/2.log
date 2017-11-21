@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\alexandru\source\repos\2\2\source.cpp(19): error C2143: syntax error: missing ')' before '?'
+c:\users\alexandru\source\repos\2\2\source.cpp(19): error C2661: 'cos': no overloaded function takes 0 arguments
+c:\users\alexandru\source\repos\2\2\source.cpp(19): error C2059: syntax error: ')'
+c:\users\alexandru\source\repos\2\2\source.cpp(19): error C2100: illegal indirection
+c:\users\alexandru\source\repos\2\2\source.cpp(19): error C2059: syntax error: ';'
